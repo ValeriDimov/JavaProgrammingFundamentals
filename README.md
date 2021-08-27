@@ -1,2 +1,2 @@
 # JavaProgrammingFundamentals
-Programming Fundamentals with Java
+Problems solved during Java Programming Fundamentals course.
